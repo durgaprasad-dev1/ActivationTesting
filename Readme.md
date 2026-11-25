@@ -1,4 +1,3 @@
-```markdown
 # Comparing Activations on Non-Linear Data
 
 This project demonstrates how different neural network activation functions (**Sin**, **Tanh**, **ReLU**, and **SwiGLU**) perform when learning highly non-linear decision boundaries. By training parameter-efficient models on synthetic spiral datasets, we compare their convergence rates, final classification losses, and qualitative decision boundaries.
